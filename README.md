@@ -1,3 +1,7 @@
+# I'm Han
+
+### Sometimes I like to be alone and sometimes I like to be lively, very contradictory
+
 - 👋 Hi, I’m @actionistHan
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java...
