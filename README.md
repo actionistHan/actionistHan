@@ -1,5 +1,5 @@
 # I'm Han
-### I'm a Minimalism
+###  Minimalism
 #### Sometimes I like to be alone and sometimes I like to be lively, very contradictory
 
 - 👋 Hi, I’m @actionistHan
